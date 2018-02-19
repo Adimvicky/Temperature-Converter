@@ -1,0 +1,16 @@
+
+    
+    
+    label{
+        float:left;
+        width:35%;
+    }
+    input{
+        margin-right:2px;
+        margin-left:2px;
+        height:20px;
+    }
+    *{
+    font-family:helvetica;
+   }
+      
